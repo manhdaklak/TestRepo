@@ -1,0 +1,16 @@
+D:\ManhNguyen\MN\GIT\GIT\bin\Debug\GIT.exe.config
+D:\ManhNguyen\MN\GIT\GIT\bin\Debug\GIT.exe
+D:\ManhNguyen\MN\GIT\GIT\bin\Debug\GIT.pdb
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.Properties.Resources.resources
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.csproj.GenerateResource.cache
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.csproj.CoreCompileInputs.cache
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.exe
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.pdb
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.MN.resources
+D:\ManhNguyen\MN\GIT\GIT\bin\Debug\GIT.exe.manifest
+D:\ManhNguyen\MN\GIT\GIT\bin\Debug\GIT.application
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.TrustInfo.xml
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.exe.manifest
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.application
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.csproj.AssemblyReference.cache
+D:\ManhNguyen\MN\GIT\GIT\obj\Debug\GIT.csproj.SuggestedBindingRedirects.cache

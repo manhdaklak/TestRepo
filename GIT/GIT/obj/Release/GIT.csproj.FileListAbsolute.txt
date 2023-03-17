@@ -1,0 +1,15 @@
+D:\ManhNguyen\MN\GIT\GIT\bin\Release\GIT.exe.config
+D:\ManhNguyen\MN\GIT\GIT\bin\Release\GIT.exe.manifest
+D:\ManhNguyen\MN\GIT\GIT\bin\Release\GIT.application
+D:\ManhNguyen\MN\GIT\GIT\bin\Release\GIT.exe
+D:\ManhNguyen\MN\GIT\GIT\bin\Release\GIT.pdb
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.csprojAssemblyReference.cache
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.MN.resources
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.Properties.Resources.resources
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.csproj.GenerateResource.cache
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.csproj.CoreCompileInputs.cache
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.TrustInfo.xml
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.exe.manifest
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.application
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.exe
+D:\ManhNguyen\MN\GIT\GIT\obj\Release\GIT.pdb
